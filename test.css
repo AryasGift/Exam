@@ -1,0 +1,61 @@
+#icons{
+    padding-top:50px;
+    display: inline-block;
+}
+#div1{
+    background-color: red;
+    height:500px;
+    text-align: center;
+}
+.text{
+    display:inline;
+    color: aliceblue;
+}
+h3{
+    text-align: center;
+}
+#div2{
+    text-align: center;
+}
+#users{
+    margin-top: 20px;
+    padding-left: 30px;
+    color: aliceblue;
+
+}
+img{
+     height: 300px; 
+     width: 240px;
+
+}
+button{
+    width:250px;
+}
+#users p{
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.heading{
+  background-color: red;
+  height:150px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+#para1{
+  background-color: aliceblue;
+  width: 100px;
+
+}
+#paragraphs{
+    gap: 0.3em;
+}
+#para2{
+   background-color: aliceblue;
+   gap: 1.2em;
+}
+@media screen and(max-width:768) {
+    #para1{
+        margin-left:0;
+    }
+    
+}
